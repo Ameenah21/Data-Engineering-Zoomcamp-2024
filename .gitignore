@@ -6,7 +6,8 @@ pgcli/
 *.json
 # Local .terraform directories
 **/.terraform/*
-
+*.duckdb.*
+*.duckdb
 # .tfstate files
 *.tfstate
 *.tfstate.*
