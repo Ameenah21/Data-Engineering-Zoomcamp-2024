@@ -9,3 +9,4 @@ sources:
     tables:
       - name: nyc_green_taxi
       - name: nyc_yellow_taxi
+      - name: fhv_2019
